@@ -18,8 +18,8 @@ add it to your Meteor app in one easy step:
     
 ##License
 
-The Responsive Grid System is licensed under the [Creative Commons License]
-(http://creativecommons.org/licenses/by/3.0/).
+The Responsive Grid System is licensed under the 
+[Creative Commons License](http://creativecommons.org/licenses/by/3.0/).
 
 The Responsive Grid System was created by Graham Miller, of Newcastle, England. 
 No endorsement of this meteor package by Mr. Miller is expressed or implied. The
