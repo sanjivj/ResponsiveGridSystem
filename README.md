@@ -9,8 +9,7 @@ it can be the best tool when all you need is a simple and flexible grid system.
 For more details on what the Responsive Grid System is and how to use it, visit 
 the site above.
 
-Why a meteor package?
------------------------------------------------------------------------------
+## Why a meteor package?
 
 The Responsive Grid System can be awkward to add to a meteor app; get the link 
 address, decide where to put it, download and unzip.. This wrapper allows you to 
