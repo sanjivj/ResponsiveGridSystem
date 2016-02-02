@@ -1,6 +1,6 @@
 Package.describe({
   name: 'sanjivcj:responsive-grid-system',
-  version: '0.0.2',
+  version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: "Wrapper for Graham Miller's Responsive Grid System",
   // URL to the Git repository containing the source code for this package.
